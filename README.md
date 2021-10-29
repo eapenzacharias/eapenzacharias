@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on HTML, CSS, JavaScript, C, webpack and Ruby on Rails
 - 🌱 Learning REACT & Redux
 - 👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.
+
+### Socials
+[LinkedIn](https://de.linkedin.com/in/eapenzac)
+[Twitter](https://twitter.com/eapenzac)
