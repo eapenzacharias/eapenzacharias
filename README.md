@@ -1,4 +1,4 @@
-### #building, one commit at a time 👋
+### #building, one commit at a time 🧑‍💻
 
 Fullstack Developer 
 Open to new opportunities and collaborations
