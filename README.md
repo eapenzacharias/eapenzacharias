@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ### Socials
 [LinkedIn](https://de.linkedin.com/in/eapenzac)
 [Twitter](https://twitter.com/eapenzac)
+
+![Eapen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark)
