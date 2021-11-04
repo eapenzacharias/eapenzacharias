@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🌱 Learning REACT & Redux
 - 👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.
 
-### Socials
-[LinkedIn](https://de.linkedin.com/in/eapenzac)
-[Twitter](https://twitter.com/eapenzac)
+### Socials: [LinkedIn](https://de.linkedin.com/in/eapenzac) | [Twitter](https://twitter.com/eapenzac)
 
 ![Eapen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark)
