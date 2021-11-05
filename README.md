@@ -1,6 +1,7 @@
 ### #building, one commit at a time 🧑‍💻
 
 Fullstack Developer 
+
 Open to new opportunities and collaborations
 <!--
 **eapenzacharias/eapenzacharias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
