@@ -1,6 +1,6 @@
 ### #building, one commit at a time 🧑‍💻
 
-Fullstack Developer 
+Fullstack Developer: Rails, JavaScript, HTML CSS
 
 Open to new opportunities and collaborations
 <!--
