@@ -1,8 +1,25 @@
-### #building, one commit at a time 🧑‍💻
-
-Full-Stack Developer: Rails | JavaScript | HTML | CSS
-
-Open to new opportunities and collaborations
+<div align="center">
+  <h3 id="-building-one-commit-at-a-time-">#building, one commit at a time 🧑‍💻</h3>
+  <p>Full-Stack Developer: Rails | JavaScript | HTML | CSS</p>
+  <p>Open to new opportunities and collaborations</p>
+  <br>
+  <br>
+  <p>
+    🔭 Currently working on HTML, CSS, JavaScript, C, webpack, and Ruby on Rails<br>
+    🌱 Learning REACT &amp; Redux<br>
+    👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.<br>
+  </p>
+  <br>
+  <h3>Socials: <a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> | <a href="https://twitter.com/eapenzac">Twitter</a></h3>
+  <br>
+  <br>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark">
+    </br>
+    </br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eapenzacharias&layout=compact&theme=dark">
+  </p>
+</div>
 <!--
 **eapenzacharias/eapenzacharias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +38,4 @@ Here are some ideas to get you started:
 - 🌱 Learning REACT & Redux
 - 👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.
 
-### Socials: [LinkedIn](https://de.linkedin.com/in/eapenzac) | [Twitter](https://twitter.com/eapenzac)
 
-![Eapen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark)
