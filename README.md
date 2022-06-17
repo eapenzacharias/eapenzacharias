@@ -1,12 +1,12 @@
 <div align="center">
   <h3 id="-building-one-commit-at-a-time-">#building, one commit at a time 🧑‍💻</h3>
-  <p>Full-Stack Developer: Rails | JavaScript | HTML | CSS</p>
+  <p>Full-Stack Developer: Rails | React.js | JavaScript | HTML | CSS</p>
   <p>Open to new opportunities and collaborations</p>
   <br>
   <br>
   <p>
-    🔭 Currently working on HTML, CSS, JavaScript, C, webpack, and Ruby on Rails<br>
-    🌱 Learning REACT &amp; Redux<br>
+    🔭 Currently working with Rails, ReactJS, Redux and webpack<br>
+    🌱 Building a portfolio generator<br>
     👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.<br>
   </p>
   <br>
