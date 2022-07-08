@@ -3,14 +3,16 @@
   <p>Full-Stack Developer: Rails | React.js | JavaScript | HTML | CSS</p>
   <p>Open to new opportunities and collaborations</p>
   <br>
-  <br>
   <p>
     🔭 Currently working with Rails, ReactJS, Redux and webpack<br>
-    🌱 Building a portfolio generator<br>
-    👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.<br>
+    🌱 Specilizing in Rails ActiveRecords<br>
+    👯 I’m looking to collaborate on full-stack and back-end projects that match my stack.<br>
   </p>
   <br>
-  <h3>Socials: <a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> | <a href="https://twitter.com/eapenzac">Twitter</a></h3>
+  <h4>Find Me:
+    <a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> | <a href="https://twitter.com/eapenzac">Twitter</a> | 
+    <a href="https://dev.to/eapenzac">Dev.to</a> | <a href="https://eapenzac.medium.com/">Medium</a>
+  </h4>
   <br>
   <br>
   <p align="center">
