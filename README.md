@@ -10,7 +10,8 @@
   </p>
   <br>
   <h4>Find Me:
-    <a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> | <a href="https://twitter.com/eapenzac">Twitter</a> | 
+    <a href="https://aviyel.com/@eapenzacharias">Aviyel</a> | <a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> | 
+    <a href="https://twitter.com/eapenzac">Twitter</a> | 
     <a href="https://dev.to/eapenzac">Dev.to</a> | <a href="https://eapenzac.medium.com/">Medium</a>
   </h4>
   <br>
