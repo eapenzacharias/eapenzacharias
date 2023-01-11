@@ -19,7 +19,8 @@
   <p align="center">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eapenzacharias&layout=compact&theme=dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eapenzacharias&theme=dark&layout=compact">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eapenzacharias&theme=dark&layout=compact">
+    <img height="200" align="center" src="https://streak-stats.demolab.com?user=eapenzacharias&theme=dark&mode=weekly">
   </p>
 </div>
 <!--
