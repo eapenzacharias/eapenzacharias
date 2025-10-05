@@ -22,7 +22,7 @@ Building reliable APIs, distributed systems, and music-tech tools — with a lov
 **Backend:** Ruby on Rails, Sidekiq, Redis, PostgreSQL, ActiveRecord  
 **Frontend:** React.js, Tailwind CSS, Webpack  
 **DevOps:** Docker, Azure, Heroku
-**Other Tools:** RSpec, Capybara, Git, Jira, Trello, Postman  
+**Other Tools:** RSpec, Capybara, Git, Trello, Postman  
 **Languages:** Ruby, JavaScript, HTML, CSS  
 
 ---
