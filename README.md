@@ -1,44 +1,52 @@
 <div align="center">
-  <h3 id="-building-one-commit-at-a-time-">#building, one commit at a time 🧑‍💻</h3>
-  <p>Full-Stack Developer: Rails | React.js | JavaScript | HTML | CSS</p>
-  <p>Open to new opportunities and collaborations</p>
-  <br>
-  <p>
-    🔭 Currently working with Rails, ReactJS, Redux and webpack<br>
-    🌱 Specilizing in Rails ActiveRecords<br>
-    👯 I’m looking to collaborate on full-stack and back-end projects that match my stack.<br>
-  </p>
-  <br>
-  <h4>Find Me:
-    <a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> | 
-    <a href="https://twitter.com/eapenzac">Twitter</a> | 
-    <a href="https://dev.to/eapenzac">Dev.to</a> | <a href="https://eapenzac.medium.com/">Medium</a>
-  </h4>
-  <br>
-  <br>
-  <p align="center">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eapenzacharias&layout=compact&theme=dark">
-<!--     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eapenzacharias&theme=dark&layout=compact"> -->
-    <img height="200" align="center" src="https://streak-stats.demolab.com?user=eapenzacharias&theme=dark&mode=weekly">
-  </p>
+
+# 🧑‍💻 Building scalable systems, one commit at a time
+
+**Backend Developer (Ruby on Rails) | Founder @ WAVBEE**
+
+Building reliable APIs, distributed systems, and music-tech tools — with a love for clean architecture, automation, and measurable impact.
+
+---
+
+### 💡 About Me
+
+🔭 Currently leading backend development for a **social platform (Convose)** — Building with Rails, Redis, Sidekiq and WebSockets.  
+🚀 Founder of **WAVBEE**, a music distribution platform serving **2,000+ artists** across 30,000+ assets — powered by **Rails + AI automation**.  
+🧱 Passionate about **API design**, **cloud architecture (Azure, Docker)**, and optimizing systems for speed, reliability, and maintainability.  
+🤝 Open to collaborations in **Rails, React, and AI-assisted automation** projects.  
+
+---
+
+### 🧰 Tech Stack
+
+**Backend:** Ruby on Rails, Sidekiq, Redis, PostgreSQL, ActiveRecord  
+**Frontend:** React.js, Tailwind CSS, Webpack  
+**DevOps:** Docker, Azure, Heroku
+**Other Tools:** RSpec, Capybara, Git, Jira, Trello, Postman  
+**Languages:** Ruby, JavaScript, HTML, CSS  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eapenzacharias&show_icons=true&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eapenzacharias&layout=compact&theme=dark" />
+  <img height="180" src="https://streak-stats.demolab.com?user=eapenzacharias&theme=dark&mode=weekly" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<a href="https://de.linkedin.com/in/eapenzac">LinkedIn</a> •
+<a href="https://twitter.com/eapenzac">Twitter</a> •
+<a href="https://dev.to/eapenzac">Dev.to</a> •
+<a href="https://eapenzac.medium.com/">Medium</a>
+
+---
+
+### ⚙️ Fun Fact
+I started as a self-taught developer and now build systems powering **real-time chat, AI-based automation, and global music releases** — still learning, every single day.
+
 </div>
-<!--
-**eapenzacharias/eapenzacharias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 Currently working on HTML, CSS, JavaScript, C, webpack and Ruby on Rails
-- 🌱 Learning REACT & Redux
-- 👯 I’m looking to collaborate on full-stack and front-end projects that match my stack.
-
-
