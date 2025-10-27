@@ -21,7 +21,7 @@ Building reliable APIs, distributed systems, and music-tech tools — with a lov
 
 **Backend:** Ruby on Rails, Sidekiq, Redis, PostgreSQL, ActiveRecord  
 **Frontend:** React.js, Tailwind CSS, Webpack  
-**DevOps:** Docker, Azure, Heroku
+**DevOps:** Docker, Azure, AWS, Heroku
 **Other Tools:** RSpec, Capybara, Git, Trello, Postman  
 **Languages:** Ruby, JavaScript, HTML, CSS  
 
@@ -47,6 +47,6 @@ Building reliable APIs, distributed systems, and music-tech tools — with a lov
 ---
 
 ### ⚙️ Fun Fact
-I started as a self-taught developer and now build systems powering **real-time chat, AI-based automation, and global music releases** — still learning, every single day.
+I started as a self-taught developer and now build systems powering **real-time chat, AI automation, and global music distribution** — still learning, every single day.
 
 </div>
